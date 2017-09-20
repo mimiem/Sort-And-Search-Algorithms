@@ -1,0 +1,6 @@
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\User1\Desktop\SoftUni\CSharpFundamentals\Sort and Search Algorithms\Algorithms\obj\Debug\Algorithms.pdb
